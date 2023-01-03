@@ -1,0 +1,5 @@
+= Medium "reading history" shortcut
+
+The extension adds a new link on the top navigation next to the "For you" tab. "Reading history" is the new tab for you after enabling the extension.
+
+image::images/medium-with-extension.png[]
